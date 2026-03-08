@@ -5,7 +5,7 @@ LDFLAGS = -lpthread
 
 # Define variables for source files
 SRCS = ./src/main.cpp ./src/SearchEngine.cpp
-TARGET = program
+TARGET = filecrawler
 
 # --- Rules ---
 all: $(TARGET)
