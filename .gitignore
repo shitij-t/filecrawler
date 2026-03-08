@@ -1,0 +1,21 @@
+# Compiled Binaries
+program
+
+# Debug Symbols
+*.dSYM/
+
+# Intermediate Objects
+*.o
+*.obj
+
+# MacOS specific
+.DS_Store
+
+# Editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build logs
+*.log
