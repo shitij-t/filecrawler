@@ -26,7 +26,7 @@ A high-performance command-line tool built in C++ that searches for a specific s
 
 ### Build
 ```bash
-git clone https://github.com/your-username/fast-search-engine.git
+git clone https://github.com/shitij-t/fast-search-engine.git
 cd fast-search-engine
 make
 ```
