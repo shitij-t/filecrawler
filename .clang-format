@@ -1,0 +1,16 @@
+# .clang-format
+---
+# Base the style on the standard LLVM style
+BasedOnStyle: LLVM
+
+# Explicitly set the indentation width to 4 spaces
+IndentWidth: 2
+
+# Also set TabWidth for consistency
+TabWidth: 2
+
+# Ensure it inserts spaces, not actual tab characters
+UseTab: Never
+
+# This is a good setting to enforce one line per access modifier, which is common
+AccessModifierOffset: -4
